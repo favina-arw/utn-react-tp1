@@ -5,6 +5,10 @@
   border-radius: 5%;
 }
 
+#estado-text {
+  color: rgba(183, 207, 207, 0.637);
+}
+
 body {
   background-color: rgb(33 37 41);
   color: #dee2e6;
